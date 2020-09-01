@@ -1,0 +1,15 @@
+{
+    "version": "0.2.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Qovery/helm-freeze/releases/download/v0.2.1/helm-freeze_0.2.1_windows_amd64.zip",
+            "bin": [
+                "helm-freeze.exe"
+            ],
+            "hash": "7f20e10dc7eac8ee49b1a0ae6c829ef8fe79466af69e3ee8c9b69ecaabc7ec4a"
+        }
+    },
+    "homepage": "https://docs.qovery.com",
+    "license": "GPL3",
+    "description": "Freeze your charts in the wished versions"
+}
