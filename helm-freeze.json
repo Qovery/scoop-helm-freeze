@@ -1,12 +1,12 @@
 {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Qovery/helm-freeze/releases/download/v0.4.0/helm-freeze_0.4.0_windows_amd64.zip",
+            "url": "https://github.com/Qovery/helm-freeze/releases/download/v0.4.1/helm-freeze_0.4.1_windows_amd64.zip",
             "bin": [
                 "helm-freeze.exe"
             ],
-            "hash": "81cb2d353faf7320f0d4fd4cfc1bdb92af00a2ad3451b44126e963d6ce2bbe3c"
+            "hash": "182b514ec3445217fa756fb809d94b36a05d266304eef2a5aa4eedfb1774d321"
         }
     },
     "homepage": "https://docs.qovery.com",
